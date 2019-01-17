@@ -8,7 +8,12 @@ $(document).ready(function() {
         var q1Result = $("#question1").val();
         var q2Result = $("#question2").val();
         var q3Result = $("#question3").val();
+        var q4Result = $("#question4").val()
         var totalScore;
+    if(){
+        
+    } else if(){}
+        
     });
 
 });

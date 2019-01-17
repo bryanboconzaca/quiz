@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #33ffbb;
 }
 
 .siliconValley {
@@ -23,9 +23,10 @@ body {
     font-size: 20px;
 }
 
-#tomImg {
+#Champions{
     border-radius: 50%;
-    width: 50px;
+    width: 1350px;
+    
 }
 
 a {
@@ -52,6 +53,12 @@ button {
 }
 
 body{
-
     margin-left:20px;
+}
+.questions{
+justify-content: space-between;
+}
+#hi{
+    justify-content:space-between;
+    
 }
